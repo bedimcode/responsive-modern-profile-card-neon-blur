@@ -1,0 +1,15 @@
+========== CARD ==========
+🔹.card__info
+More info
+
+🔹.card__info-name
+Anis Rashed
+Yhia Mersh
+Mila Krish
+
+🔹.card__info-profession
+Frontend Developer
+
+🔹.card__info-description
+I build and develop custom websites featuring tailored UI/UX 
+design—modern, attractive sites designed with the user in mind.
